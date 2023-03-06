@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ## Contacto
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](mailto:dacelis0@misena.edu.co)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link)]
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)
 
 # :man_technologist: Mis Conocimientos
