@@ -4,7 +4,6 @@
    <img src="https://icon-library.com/images/dev-icon/dev-icon-7.jpg" height="200" alt="">
    <br> 
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" height="300" alt="">
-  
  </div>
 
 
@@ -23,11 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🖖 there, I'm a frontend developer from Colombia
+# 🖖 Hola, soy desarrollador frontend de Colombia.(Junior)
+
 
 ## Contacto
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dacelis0@misena.edu.co)](mailto:dacelis0@misena.edu.co)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=573209494649&text=Olá!)](https://api.whatsapp.com/send?phone=573209494649text=Hi!🖖)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link)
 
 # :man_technologist: Mis Conocimientos
 
